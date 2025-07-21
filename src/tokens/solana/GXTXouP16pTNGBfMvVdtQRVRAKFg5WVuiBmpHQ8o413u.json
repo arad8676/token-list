@@ -2,42 +2,26 @@
   "name": "Solana Token List",
   "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
   "tags": {
-    "nft": {
-      "name": "NFT",
-      "description": "Non-fungible tokens"
-    },
-    "lp-token": {
-      "name": "LP Token",
-      "description": "Liquidity provider tokens"
-    },
     "utility-token": {
       "name": "Utility Token",
-      "description": "General utility tokens"
+      "description": "توکن‌هایی با کاربردهای درون‌برنامه‌ای یا اکوسیستم خاص"
     }
   },
-  "timestamp": "2025-07-21T12:00:00+00:00",
+  "timestamp": "2025-07-21T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 101,
-      "address": "So11111111111111111111111111111111111111112",
-      "symbol": "SOL",
-      "name": "Solana",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png",
-      "tags": []
-    },
-
-    {
-      "chainId": 101,
       "address": "DQWBXT4H722E6ZkxzDMKSZVuwjpH1fJJZ4d4vpjY81VJ",
-      "symbol": "ELN",
+      "symbol": "ELARINA",
       "name": "Elarina",
       "decimals": 9,
-      "logoURI": "https://i.ibb.co/zV3Ssd0k/d2fea655-2109-4195-8ada-e1e1e5cf6b1f.png",
+      "logoURI": "https://raw.githubusercontent.com/YOUR_USERNAME/token-list/main/assets/mainnet/DQWBXT4H722E6ZkxzDMKSZVuwjpH1fJJZ4d4vpjY81VJ/logo.png",
       "tags": ["utility-token"],
       "extensions": {
-        "website": "https://elarima.example.com",
-        "twitter": "https://twitter.com/elarima"
+        "website": "https://elarina.com",
+        "twitter": "https://twitter.com/elarina_official",
+        "github": "https://github.com/YOUR_USERNAME/token-list",
+        "explorer": "https://solscan.io/token/DQWBXT4H722E6ZkxzDMKSZVuwjpH1fJJZ4d4vpjY81VJ"
       }
     }
   ]
