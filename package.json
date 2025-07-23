@@ -5,7 +5,10 @@
   "main": "dist/main/index.js",
   "typings": "dist/main/index.d.ts",
   "module": "dist/module/index.js",
-  "repository": "https://github.com/solana-labs/token-list",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solana-labs/token-list.git"
+  },
   "license": "Apache",
   "keywords": [],
   "scripts": {
@@ -106,5 +109,10 @@
   },
   "dependencies": {
     "cross-fetch": "3.0.6"
-  }
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/solana-labs/token-list/issues"
+  },
+  "homepage": "https://github.com/solana-labs/token-list#readme"
 }
