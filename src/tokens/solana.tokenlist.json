@@ -184607,13 +184607,13 @@
     },
     {
       "chainId": 101,
-      "address": "DHs9mG4EQqq1pvXFHt8HZuvZQCr6Xi5GjGbASsj4TNZm",
-      "symbol": "JFRM",
-      "name": "Jeffrium",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/jeffreydrew/pandacoin/main/pandafinal.png",
+      "address": "GXTXouP16pTNGBfMvVdtQRVRAKFg5WVuiBmpHQ8o413u",
+      "symbol": "ELA",
+      "name": "Elarina",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/gZGnFxpw/elarina-logo.png" ,
       "tags": [
-        "social-token"
+        "utility-token"
       ]
     }
   ],
