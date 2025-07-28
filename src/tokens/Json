@@ -1,0 +1,23 @@
+{
+  "name": "Solana Token List",
+  "tags": {},
+  "timestamp": "2025-07-25T00:00:00+00:00",
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+  "keywords": ["solana", "token", "list"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "Elarina",
+      "symbol": "ELA",
+      "description": "Elarina utility token for ecosystem products",
+      "image": "https://raw.githubusercontent.com/arad8676/token-list/main/assets/mainnet/GXTXouP16pTNGBfMvVdtQRVRAKFg5WVuiBmpHQ8o413u/logo.png",
+      "address": "GXTXouP16pTNGBfMvVdtQRVRAKFg5WVuiBmpHQ8o413u",
+      "chainId": 101,
+      "decimals": 9
+    }
+  ]
+}
